@@ -115,7 +115,6 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/hotdogb/proprietary/vendor/lib/camera/components/com.oneplus.node.bokeh.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/components/com.oneplus.node.bokeh.so \
     vendor/oneplus/hotdogb/proprietary/vendor/lib/camera/components/com.oneplus.node.eis.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/components/com.oneplus.node.eis.so \
     vendor/oneplus/hotdogb/proprietary/vendor/lib/camera/components/com.oneplus.node.memcpy.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/components/com.oneplus.node.memcpy.so \
-    vendor/oneplus/hotdogb/proprietary/vendor/lib/camera/components/com.oneplus.node.preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/components/com.oneplus.node.preview.so \
     vendor/oneplus/hotdogb/proprietary/vendor/lib/camera/components/com.oneplus.node.rtb.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/components/com.oneplus.node.rtb.so \
     vendor/oneplus/hotdogb/proprietary/vendor/lib/camera/components/com.oneplus.node.sat.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/components/com.oneplus.node.sat.so \
     vendor/oneplus/hotdogb/proprietary/vendor/lib/camera/components/com.qti.node.eisv2.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/components/com.qti.node.eisv2.so \
@@ -155,7 +154,6 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/hotdogb/proprietary/vendor/lib64/camera/components/com.oneplus.node.bokeh.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/components/com.oneplus.node.bokeh.so \
     vendor/oneplus/hotdogb/proprietary/vendor/lib64/camera/components/com.oneplus.node.eis.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/components/com.oneplus.node.eis.so \
     vendor/oneplus/hotdogb/proprietary/vendor/lib64/camera/components/com.oneplus.node.memcpy.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/components/com.oneplus.node.memcpy.so \
-    vendor/oneplus/hotdogb/proprietary/vendor/lib64/camera/components/com.oneplus.node.preview.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/components/com.oneplus.node.preview.so \
     vendor/oneplus/hotdogb/proprietary/vendor/lib64/camera/components/com.oneplus.node.rtb.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/components/com.oneplus.node.rtb.so \
     vendor/oneplus/hotdogb/proprietary/vendor/lib64/camera/components/com.oneplus.node.sat.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/components/com.oneplus.node.sat.so \
     vendor/oneplus/hotdogb/proprietary/vendor/lib64/camera/components/com.qti.node.eisv2.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/components/com.qti.node.eisv2.so \
